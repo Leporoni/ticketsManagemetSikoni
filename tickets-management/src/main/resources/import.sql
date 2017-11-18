@@ -1,0 +1,1 @@
+insert into tbl_ticket (id, name, email, date, description, status) values (1, "Manutenção 01", "robot@arcade.com", "1982/10/16", "Trocar Valvula Maquina Pinball", "Ativo");
